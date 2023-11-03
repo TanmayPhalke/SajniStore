@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SajniStore</string>
+    <string name="first_slide">FIRST SLIDE TEXT\n</string>
+    <string name="second_slide">Second Slide Text</string>
+    <string name="third_slide">Third Slide Text</string>
+    <string name="description">A bit about Sajni and the app</string>
+    <!--<string name=""></string> -->
+
+
+
+</resources>
